@@ -1,6 +1,8 @@
 <h1 align="center">Hello world, I'm Nicky</h1>
 
-- 🌱 I’m currently learning **ReactJs and NodeJs**
+I'm a software developer, experienced in backend development with PHP and Java. I'm also discovering the magic word of frontend development with ReactJs.
+
+- 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **nicole.zimerman@gmail.com**
 

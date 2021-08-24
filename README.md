@@ -1,8 +1,10 @@
 <h1 align="center">Hello world, I'm Nicky</h1>
 
-I'm a software developer, experienced in backend development with PHP and Java. I'm also discovering the magic word of frontend development with ReactJs.
+I'm a frontend developer wandering the magic word of ReactJs.
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 Working with **ReactJs**
+
+- 📍 Living in **Tel Aviv, Israel**
 
 - 📫 How to reach me **nicole.zimerman@gmail.com**
 
@@ -12,9 +14,12 @@ I'm a software developer, experienced in backend development with PHP and Java. 
 <p align="left">
 <a href="https://linkedin.com/in/nicole-zimerman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicole-zimerman" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Visit my website:</h3>
+<p>
+<a href="https://nicolezimerman.github.io/" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/linecolor+version+svg+stars-1319964495853900697.png" alt="nicole-zimerman" height="30" width="30" /></a>
+</p>
+<h3 align="left">Technology skills:</h3>
 <p align="left">
-Javascript, Java, PHP
-Html5, css3, ReactJs, Laravel, Express
+HTML5, CSS, Javascript, ReactJs, Typescript
+React-router-dom, Mobx, context, Material UI
 </p>
